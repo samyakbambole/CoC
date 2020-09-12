@@ -14,3 +14,5 @@ This is a Code of Conduct for the samyakbambole Community. This largely applies 
 * **Be respectful.** Disagreement is not an opportunity to attack someone else's thoughts or opinions. Although views may differ, remember to approach every situation with patience and care. 
 * **Be considerate.** Think about how your contribution will affect others in the community. 
 * **Be open minded.** Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
+
+[Find a Deployed version here](http://samyakbambole-coc.surge.sh/)
